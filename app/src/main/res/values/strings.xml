@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Almacenador de Códigos de Barra</string>
+    <string name="action_settings">Configuración</string>
+    <string name="title_activity_main">Almacenador de Códigos de Barra</string>
+    <string name="title_dialog">Nueva tarjeta</string>
+    <string name="title_number">Código de tarjeta</string>
+    <string name="title_description">Descripción</string>
+    <string name="title_activity_code">CodeActivity</string>
+</resources>
